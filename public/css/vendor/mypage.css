@@ -1,0 +1,140 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.my-info{
+    width: 400px;
+    height: 500px;
+    background-color: aqua;
+    padding: 20px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 30px;
+    box-shadow: 0px 3px 18px 3px black;
+}
+.my-info img{
+    position: relative;
+    width: 150px;
+}
+.my-info .username{
+    position: relative;
+    font-size: 22px;
+    font-weight: 600;
+}
+.my-info .email{
+    position: relative;
+    font-size: 14px;
+}
+.my-info .total-points{
+    width: 70%;
+    height: 130px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    top: 80px;
+    border-radius: 30px;
+}
+.my-info .total-points p{
+    margin-left: 20px;
+    font-size: 24px;
+}
+.my-info .total-points p:nth-child(2){
+    margin-left: 60px;
+    font-size: 26px;
+}
+.change-password{
+    position: relative;
+    top: 100px;
+    font-size: 14px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+#change-password-container{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left:0;
+    bottom: 0;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    backdrop-filter: blur(5px);
+}
+.container-content{
+    width: 400px;
+    height: 220px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    border-radius: 30px;
+    box-shadow: 0px 3px 18px 3px black;
+}
+.container-content p{
+    position: relative;
+    font-size: 16px;
+}
+.container-content input{
+    position: relative;
+    padding: 5px;
+    width: 96%;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+    background-color: white;
+}
+.container-content button{
+    width: 80px;
+    padding: 5px;
+    position: relative;
+    margin-top: 10px;
+    border: 2px solid black;
+    border-radius: 30px;
+    cursor: pointer;
+}
+@media only screen and (max-device-width: 580px) {
+    .my-info{
+        width: 290px;
+    }
+    .my-info img{
+        width: 100px;
+    }
+    .my-info .username{
+        font-size: 18px;
+    }
+    .my-info .email{
+        font-size: 14px;
+    }
+    .my-info .total-points p{
+        font-size: 18px;
+        margin-left: 10px;
+    }
+    .my-info .total-points p:nth-child(2){
+        font-size: 18px;
+        margin-left: 40px;
+    }
+    .change-password{
+        font-size: 10px;
+    }
+    .container-content{
+        width: 280px;
+    }
+    .container-content p{
+        font-size: 12px;
+    }
+    .container-content input{
+        padding: 1px;
+    }
+    .container-content button{
+        width: 50px;
+        font-size: 10px;
+        border-width: 1px;
+    }
+}
+

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="public/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script src="https://kit.fontawesome.com/2926ee931f.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Oswald:wght@400;500&family=Poppins:wght@100;300;400;500;600;900&family=Tilt+Neon&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body class="color-grey">
+    <header class="color-yellow">
+        <div class="bee-wrapper">
+            <img src="../public/images/bee.png" class="color-yellow bee-img">
+            <p class="color-yellow">Beenglish</p>
+        </div>
+        <div class="font-container">
+            <i class="fa-solid fa-bars menu"></i>
+        </div>
+        <div class="navigator">
+            <nav>
+                <ul>
+                    <li><a href="#" class="curr">My page</a></li>
+                    <li><a href="/topics">Topics</a></li>
+                    <li><a href="/">Log out</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <div class="container">
+        <div class="my-info color-yellow">
+            <img src="" class="color-yellow" id="avatar">
+            <p class="username color-yellow">Username</p>
+            <div class="total-points color-grey">
+                <p>Total points</p>
+                <p id="points">0</p>
+            </div>
+            <p class="change-password color-yellow">Change password</p>
+        </div>
+    </div>
+    <div id="change-password-container">
+        <div class="container-content color-yellow">
+            <p class="color-yellow">Current password</p>
+            <input type="password" id="curr-password">
+            <p class="color-yellow">New password</p>
+            <input type="password" id="new-password">
+            <p class="color-yellow">Repeat new password</p>
+            <input type="password" id="2new-password">
+            <button id="apply">Apply</button>
+        </div>
+    </div>
+    <script src="../public/js/mypage.js"></script>
+    <script src="../public/js/nav.js"></script>
+</body>
+</html>

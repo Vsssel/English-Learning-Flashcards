@@ -1,0 +1,154 @@
+{
+    "fruits" : [
+        {
+            "id" : 1,
+            "word" : "Apple",
+            "img": "../public/images/apples-food-svgrepo-com.svg"
+            
+        },
+        {
+            "id" : 2,
+            "word" : "Whatermelon",
+            "img": "../public/images/watermelon.png"
+        },
+        {
+            "id" : 3,
+            "word" : "Peach",
+            "img" : "../public/images/peach-svgrepo-com (1).svg"
+        },
+        {
+            "id" : 4,
+            "word" : "Lemon",
+            "img": "../public/images/lemon-svgrepo-com.svg"
+        },
+        {
+            "id" : 5,
+            "word" : "Banana",
+            "img": "../public/images/banana-svgrepo-com.svg"
+        },
+        {
+            "id" : 6,
+            "word" : "Pineapple",
+            "img": "../public/images/pineapple-svgrepo-com.svg"
+        },
+        {
+            "id" : 7,
+            "word" : "Strawberry",
+            "img": "../public/images/strawberry-svgrepo-com.svg"
+        }
+    ],
+    "school" : [
+        {
+            "id" : 1,
+            "word" : "Teacher",
+            "img": "../public/images/teacher-light-skin-tone-svgrepo-com.svg"
+            
+        },
+        {
+            "id" : 2,
+            "word" : "Bag",
+            "img": "../public/images/school-bag-svgrepo-com.svg"
+            
+        },
+        {
+            "id" : 3,
+            "word" : "Bell",
+            "img": "../public/images/bell-part-2-svgrepo-com.svg"
+            
+        },
+        {
+            "id" : 4,
+            "word" : "Book",
+            "img": "../public/images/book-svgrepo-com.svg"
+            
+        },
+        {
+            "id" : 5,
+            "word" : "Board",
+            "img": "../public/images/blackboard-board-svgrepo-com.svg"
+            
+        },
+        {
+            "id" : 6,
+            "word" : "Pen",
+            "img": "../public/images/pen-svgrepo-com.svg"
+            
+        },
+        {
+            "id" : 7,
+            "word" : "Pencil",
+            "img": "../public/images/pencil-svgrepo-com.svg"
+            
+        },
+        {
+            "id" : 8,
+            "word" : "Glue",
+            "img": "../public/images/glue-svgrepo-com.svg"
+            
+        },
+        {
+            "id" : 9,
+            "word" : "Chair",
+            "img": "../public/images/chair-svgrepo-com.svg"
+            
+        },
+        {
+            "id" : 10,
+            "word" : "Desk",
+            "img": "../public/images/desk-furniture-interior-table-decoration-svgrepo-com.svg"
+            
+        }
+    ],
+    "bathroom" : [
+        {
+            "id" : 1,
+            "word" : "Shower",
+            "img" : "../public/images/shower-svgrepo-com.svg"
+        },
+        {
+            "id" : 2,
+            "word" : "Bathtub",
+            "img" : "../public/images/bathtub-svgrepo-com.svg"
+        },
+        {
+            "id" : 3,
+            "word" : "Soap",
+            "img" : "../public/images/soap-svgrepo-com.svg"
+        },
+        {
+            "id" : 4,
+            "word" : "Shampoo",
+            "img" : "../public/images/shampoo-svgrepo-com.svg"
+        },
+        {
+            "id" : 5,
+            "word" : "Towel",
+            "img" : "../public/images/towel-svgrepo-com.svg"
+        },
+        {
+            "id" : 6,
+            "word" : "Toilet",
+            "img" : "../public/images/toilet-restroom-svgrepo-com.svg"
+        },
+        {
+            "id" : 7,
+            "word" : "Sink",
+            "img" : "../public/images/sink-svgrepo-com.svg"
+        },
+        {
+            "id" : 8,
+            "word" : "Mirror",
+            "img" : "../public/images/mirror-svgrepo-com.svg"
+        },
+        {
+            "id" : 9,
+            "word" : "Toothpaste",
+            "img" : "../public/images/toothpaste-svgrepo-com.svg"
+        },
+        {
+            "id" : 10,
+            "word" : "Toothbrush",
+            "img" : "../public/images/toothbrush-svgrepo-com.svg"
+        }
+    ]
+}

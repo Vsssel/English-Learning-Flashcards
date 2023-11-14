@@ -1,0 +1,143 @@
+{
+    "fruits" : [
+        {
+            "question" : "../public/images/banana-svgrepo-com.svg",
+            "options" : ["A. Apple", "B. Banana", "C. Pineapple", "D. Strawberry"],
+            "answer" : "B. Banana"
+        },
+        {
+            "question" : "../public/images/watermelon.png",
+            "options" : ["A. Peach", "B. Banana", "C. Watermelon", "D. Strawberry"],
+            "answer" : "C. Watermelon"
+        },
+        {
+            "question" : "../public/images/apples-food-svgrepo-com.svg",
+            "options" : ["A. Apple", "B. Banana", "C. Pineapple", "D. Strawberry"],
+            "answer" : "A. Apple"
+        },
+        {
+            "question" : "../public/images/peach-svgrepo-com (1).svg",
+            "options" : ["A. Pineapple", "B. Banana", "C. Peach", "D. Lemon"],
+            "answer" : "C. Peach"
+        },
+        {
+            "question" : "../public/images/lemon-svgrepo-com.svg",
+            "options" : ["A. Pineapple", "B. Banana", "C. Peach", "D. Lemon"],
+            "answer" : "D. Lemon"
+        },
+        {
+            "question" : "../public/images/pineapple-svgrepo-com.svg",
+            "options" : ["A. Apple", "B. Banana", "C. Pineapple", "D. Strawberry"],
+            "answer" : "C. Pineapple"
+        },
+        {
+            "question" : "../public/images/strawberry-svgrepo-com.svg",
+            "options" : ["A. Apple", "B. Banana", "C. Pineapple", "D. Strawberry"],
+            "answer" : "D. Strawberry"
+        }
+    ],
+    "school" : [
+        {
+            "question" : "../public/images/teacher-light-skin-tone-svgrepo-com.svg",
+            "options" : ["A. Teacher", "B. Bag", "C. Bell", "D. Book"],
+            "answer" : "A. Teacher"
+        },
+        {
+            "question" : "../public/images/school-bag-svgrepo-com.svg",
+            "options" : ["A. Teacher", "B. Bag", "C. Bell", "D. Book"],
+            "answer" : "B. Bag"
+        },
+        {
+            "question" : "../public/images/bell-part-2-svgrepo-com.svg",
+            "options" : ["A. Teacher", "B. Bag", "C. Bell", "D. Book"],
+            "answer" : "C. Bell"
+        },
+        {
+            "question" : "../public/images/book-svgrepo-com.svg",
+            "options" : ["A. Teacher", "B. Bag", "C. Bell", "D. Book"],
+            "answer" : "D. Book"
+        },
+        {
+            "question" : "../public/images/blackboard-board-svgrepo-com.svg",
+            "options" : ["A. Board", "B. Pen", "C. Pencil", "D. Glue"],
+            "answer" : "A. Board"
+        },
+        {
+            "question" : "../public/images/pen-svgrepo-com.svg",
+            "options" : ["A. Board", "B. Pen", "C. Pencil", "D. Glue"],
+            "answer" : "B. Pen"
+        },
+        {
+            "question" : "../public/images/pencil-svgrepo-com.svg",
+            "options" : ["A. Board", "B. Pen", "C. Pencil", "D. Glue"],
+            "answer" : "C. Pencil"
+        },
+        {
+            "question" : "../public/images/glue-svgrepo-com.svg",
+            "options" : ["A. Board", "B. Pen", "C. Pencil", "D. Glue"],
+            "answer" : "D. Glue"
+        },
+        {
+            "question" : "../public/images/chair-svgrepo-com.svg",
+            "options" : ["A. Board", "B. Pen", "C. Chair", "D. Desk"],
+            "answer" : "C. Chair"
+        },
+        {
+            "question" : "../public/images/desk-furniture-interior-table-decoration-svgrepo-com.svg",
+            "options" : ["A. Board", "B. Pen", "C. Chair", "D. Desk"],
+            "answer" : "D. Desk"
+        }
+    ],
+    "bathroom" : [
+        {
+            "question" : "../public/images/shower-svgrepo-com.svg",
+            "options" : ["A. Shower", "B. Bathtub", "C. Soap", "D. Shampoo"],
+            "answer" : "A. Shower"
+        },
+        {
+            "question" : "../public/images/bathtub-svgrepo-com.svg",
+            "options" : ["A. Shower", "B. Bathtub", "C. Soap", "D. Shampoo"],
+            "answer" : "B. Bathtub"
+        },
+        {
+            "question" : "../public/images/soap-svgrepo-com.svg",
+            "options" : ["A. Shower", "B. Bathtub", "C. Soap", "D. Shampoo"],
+            "answer" : "C. Soap"
+        },
+        {
+            "question" : "../public/images/shampoo-svgrepo-com.svg",
+            "options" : ["A. Shower", "B. Bathtub", "C. Soap", "D. Shampoo"],
+            "answer" : "D. Shampoo"
+        },
+        {
+            "question" : "../public/images/towel-svgrepo-com.svg",
+            "options" : ["A. Towel", "B. Toilet", "C. Sink", "D. Mirror"],
+            "answer" : "A. Towel"
+        },
+        {
+            "question" : "../public/images/toilet-restroom-svgrepo-com.svg",
+            "options" : ["A. Towel", "B. Toilet", "C. Sink", "D. Mirror"],
+            "answer" : "B. Toilet"
+        },
+        {
+            "question" : "../public/images/sink-svgrepo-com.svg",
+            "options" : ["A. Towel", "B. Toilet", "C. Sink", "D. Mirror"],
+            "answer" : "C. Sink"
+        },
+        {
+            "question" : "../public/images/mirror-svgrepo-com.svg",
+            "options" : ["A. Towel", "B. Toilet", "C. Sink", "D. Mirror"],
+            "answer" : "D. Mirror"
+        },
+        {
+            "question" : "../public/images/toothpaste-svgrepo-com.svg",
+            "options" : ["A. Toothpaste", "B. Toilet", "C. Toothbrush", "D. Mirror"],
+            "answer" : "A. Toothpaste"
+        },
+        {
+            "question" : "../public/images/toothbrush-svgrepo-com.svg",
+            "options" : ["A. Toothpaste", "B. Toilet", "C. Toothbrush", "D. Mirror"],
+            "answer" : "C. Toothbrush"
+        }
+    ]
+}

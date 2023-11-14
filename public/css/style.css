@@ -1,0 +1,32 @@
+@import url(vendor/flipper.css);
+@import url(vendor/index.css);
+@import url(vendor/quiz.css);
+@import url(vendor/mypage.css);
+@import url(vendor/topics.css);
+
+*{
+    font-family: 'Poppins';
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: #8e8e8e;
+}
+.color-yellow{
+    background-color: #eec849;
+}
+.color-yellow-text{
+    color: #eec849;
+}
+.color-grey{
+    background-color: #8e8e8e;
+}
+.empty{
+    background-color: rgb(251, 194, 194);
+    border: 2px solid red;
+}
+@media only screen and (max-device-width: 580px) {
+    body{
+        background-color: #eec849;
+    }
+}
